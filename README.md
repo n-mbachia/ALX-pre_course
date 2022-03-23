@@ -1,1 +1,1 @@
-My first readme
+Repo for alx SE course
